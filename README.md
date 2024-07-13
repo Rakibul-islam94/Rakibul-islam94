@@ -8,18 +8,18 @@
 
 **👨‍🏫 About Me**
 
-I currently study in computer science and engineering(cse) in Begum Rokeya University, Rangpur(BRUR). I'm very passionate about problem solving with programming. So, I do problem solving in different platforms like Hackerrank, Leetcode, Codeforces. Now, I'm a professional Reactjs and React native developer as well with clean concepts and projects. 
+I currently study in computer science and engineering(cse) in Begum Rokeya University, Rangpur(BRUR). I'm very passionate about problem solving with programming. So, I do problem solving in different platforms like Hackerrank, Leetcode and Codeforces. Now, I'm a professional Reactjs and React native developer as well with clean concepts and creative projects. 
 
 ### Skills
-- Solid foundation on html and css.
+- Solid foundation on core html and css.
 - Css framework(Tailwind css).
-- Solid concept on core javascript and oop.
+- Solid concept on core javascript and its oop.
 - Strong foundation on Reactjs.
-- strong foundation on React native.
+- Strong foundation on React native.
 
 ### Projects
-- 4 web application with Tailwind css and recatjs.
-- 3 clone mobile apps with react native.
+- 4 web applications with Tailwind css and Recatjs.
+- 3 clone mobile apps with React native.
 ### Education
 | Institution | Degree | Year |
 |-------------|---------|------|
