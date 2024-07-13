@@ -1,4 +1,3 @@
-![Rakibul islam](photos/rahat.JPG) 
 # 👋 Hey, I'm Rakibul islam
 **_A professional Reactjs and React native developer 📲_** 
 ### Connect with me : 
@@ -32,5 +31,19 @@ I currently study in computer science and engineering(cse) in Begum Rokeya Unive
 - 👉 [Facebook](https://www.facebook.com/profile.php?id=100079727335102)
 - 👉 [Linkedin](www.linkedin.com/in/raqibrahat)
 
+### Language 
+- English : Advanced
+- Bangla : Native
+
+### Other activities/Sports/Hobbies 
+- Cricket 🏏
+- Badminton 🏸
+- Football ⚽
+- Chess 🧩
+- Cycling 🚴
+
+### Achievements
+- Runners up(Programming contest)
+- Runners up(Inter department cricket tournament) 🏆🏅
 
 #      Thanks 🤝
