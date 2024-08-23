@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rakibul islam
 **_A professional Reactjs and React native developer 📲_** 
 ### Connect with me : 
-👉 [![Linekdin](image.png)](https://www.linkedin.com/in/raqibrahat)
+👉 [![Linekdin](image.png)](https://www.linkedin.com/in/rakibulislam994)
 
 
 
@@ -26,10 +26,10 @@ I currently study in computer science and engineering(cse) in Begum Rokeya Unive
 | Carmichael collegiate school and college, Rangpur | HSC | 2020 |
 
 ### Contact informations
-- 👉 Email : raqibrahat594@gmail.com
+- 👉 Email : md94rakibulislam@gmail.com
 
 - 👉 [Facebook](https://www.facebook.com/profile.php?id=100079727335102)
-- 👉 [Linkedin](https://www.linkedin.com/in/raqibrahat)
+- 👉 [Linkedin](https://www.linkedin.com/in/rakibulislam994)
 
 ### Language 
 - English : Advanced
