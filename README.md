@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rakibul islam
 **_A professional Reactjs and React native developer 📲_** 
 ### Connect with me : 
-👉 [![Linekdin](image.png)](https://www.linkedin.com/in/rakibul-islam94)
+👉 [![Linekdin](image.png)](https://www.linkedin.com/in/Rakibul-islam94)
 
 
 
@@ -29,7 +29,7 @@ I currently study in computer science and engineering(cse) in Begum Rokeya Unive
 - 👉 Email : md94rakibulislam@gmail.com
 
 - 👉 [Facebook](https://www.facebook.com/profile.php?id=100079727335102)
-- 👉 [Linkedin](https://www.linkedin.com/in/rakibul-islam94)
+- 👉 [Linkedin](https://www.linkedin.com/in/Rakibul-islam94)
 
 ### Language 
 - English : Advanced
