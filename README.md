@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rakibul islam
 **_A professional Reactjs and React native developer 📲_** 
-### Connect with me : 
+### Connect: 
 👉 [![Linekdin](image.png)](https://www.linkedin.com/in/Rakibul-islam94)
 
 
