@@ -7,18 +7,18 @@
 
 **👨‍🏫 About Me**
 
-I currently study in computer science and engineering(cse) in Begum Rokeya University, Rangpur(BRUR). I'm very passionate about problem solving with programming. So, I do problem solving in different platforms like Hackerrank, Leetcode and Codeforces. Now, I'm a professional Reactjs and React native developer as well with clean concepts and creative projects. 
+I'm a passionate competitive programmer and problem solver active on platforms like Codeforces, LeetCode, and HackerRank. Currently, I'm expanding my skills in React.js and React Native to dive into web and mobile development. Always excited to learn and take on new challenges!
 
 ### Skills
-- Solid foundation on core html and css.
-- Css framework(Tailwind css).
-- Solid concept on core javascript and its oop.
-- Strong foundation on Reactjs.
-- Strong foundation on React native.
+- Solid foundation on core HTML and CSS.
+- CSS framework(Tailwind CSS).
+- Solid concept on core Javascript and its OOP.
+- Strong foundation in React.js(Web application).
+- Strong foundation in React Native(Mobile application).
 
 ### Projects
-- 4 web applications with Tailwind css and Recatjs.
-- 3 clone mobile apps with React native.
+- 4 web applications with Tailwind CSS and Recat.js.
+- 3 clone mobile apps with React Native.
 ### Education
 | Institution | Degree | Year |
 |-------------|---------|------|
@@ -26,14 +26,13 @@ I currently study in computer science and engineering(cse) in Begum Rokeya Unive
 | Carmichael collegiate school and college, Rangpur | HSC | 2020 |
 
 ### Contact informations
-- 👉 Email : md94rakibulislam@gmail.com
 
 - 👉 [Facebook](https://www.facebook.com/profile.php?id=100079727335102)
 - 👉 [Linkedin](https://www.linkedin.com/in/Rakibul-islam94)
 
 ### Language 
-- English : Advanced
-- Bangla : Native
+- English: Advanced
+- Bangla: Native
 
 ### Other activities/Sports/Hobbies 
 - Cricket 🏏
