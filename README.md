@@ -17,7 +17,7 @@ I'm a passionate competitive programmer and problem solver active on platforms l
 - Strong foundation in React Native(Mobile application).
 
 ### Projects
-- 4 web applications with Tailwind CSS and Recat.js.
+- 4 web applications with Tailwind CSS and React.js.
 - 3 clone mobile apps with React Native.
 ### Education
 | Institution | Degree | Year |
